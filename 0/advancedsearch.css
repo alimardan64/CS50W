@@ -1,0 +1,158 @@
+/* container1 */
+h1 {
+    font-size: 20px;
+    color:red;    
+    margin: 10px;
+    margin-left:0px;
+    margin-right:auto;
+    padding: 6px;
+    padding-left:0px;
+}
+
+#container1 {
+    padding-left:45px;
+}
+/* firstborder */
+#firstborder {
+    border-bottom: 1px solid #ebebeb;
+ }
+ #secondborder {
+    border-bottom: 1px solid #ebebeb;
+
+ }
+
+
+
+/* Advancedsearch */
+#advancedsearch {
+    display:flex;
+    flex-direction: column;
+    padding: 40px 2% 0 45px;
+    width:100%;
+    height:100%
+}
+
+/* extra */
+#extra {
+    display:flex;
+    flex-direction: column;
+    height:100%;
+    padding: 40px 2% 0 45px;
+}
+
+h2 {
+    font-size: 16px;
+}
+
+
+.extra1 {
+    padding:0;
+    color:#12c;
+}
+
+.container-fluid {
+    padding:0;
+   
+
+}
+.advancedsearch_span {
+    font-size: 16px;
+    color:#333333;
+}
+
+.advancedsearch_span0 {
+    font-size: 13px;
+    font-weight: bold;
+    color:#777777;
+
+}
+ 
+.advancedsearch_span1 {
+    font-size: 13px;
+    color:#222222;
+
+}
+
+.advancedsearch_input1 {
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+    padding: 1px 8px;
+    /* margin:10px 0; */
+    
+    width:100%;
+    height:70%;
+}
+.advancedsearch_input1:focus {
+    outline:none;
+    border: 1px solid #4d90fe;
+
+}
+
+.advancedsearch_span2 {
+    font-size: 11px;
+    color:#555555;
+
+    
+}
+.advancedsearch_span3 {
+    font-size: 11px;
+    color:#666666;
+    font-family: monospace;
+}
+.height1 {
+    height:47px;
+    
+}
+.height2 {
+    height:41px;
+}
+
+.temp {
+    padding-left:5px
+}
+.none {
+    display:flex;
+    flex-direction: column;
+}
+
+@media only screen and (max-width: 992px) {
+    .temp {
+        display: none;
+    }
+}
+
+.submit {
+    display:flex;
+    height:100%;
+}
+#adv {
+    background-color:#357ae8;
+    color:white;
+    border:0;
+    padding:0 12px;
+    height:30px;
+    border-radius: 2px;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    margin:10px 0;
+    margin-left: auto;
+
+    
+}
+
+
+#container4 {
+    padding-left:45px;
+}
+.help {
+    margin-left:0;
+    padding-left: 0;
+}
+.container-fluid{
+    height:100%;
+}
+form {
+
+    height:100%;
+}
