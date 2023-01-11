@@ -156,3 +156,17 @@ form {
 
     height:100%;
 }
+
+.range {
+    display:flex;
+}
+
+.range1 {
+    width:45%;
+}
+.range2 {
+    margin-left: auto;
+    margin-right:auto;
+    padding-top:3px;
+    
+}
